@@ -220,9 +220,9 @@ a {
   top: 0%;
   right: auto;
   bottom: auto;
-  width: 80%;
+  width: 90%;
   height: 100%;
-  max-width: 80%;
+  max-width: 90%;
   -webkit-box-flex: 0;
   -webkit-flex: 0 0.5 auto;
   -ms-flex: 0 0.5 auto;
